@@ -15,7 +15,7 @@ function addIngredients(ingredient, arr) {
 }
 
 function formatPrice(price) {
-  return `$${price}`
+  return `${price}`
 }
 
 function decreasePrice(price) {
